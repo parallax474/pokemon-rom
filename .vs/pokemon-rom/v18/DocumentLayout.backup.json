@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aydan\\source\\repos\\pokemon-rom\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aydan\\source\\repos\\pokemon-rom\\docs\\tutorials\\how_to_frlg.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\tutorials\\how_to_frlg.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aydan\\source\\repos\\pokemon-rom\\Makefile||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Makefile||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aydan\\source\\repos\\pokemon-rom\\tools\\mapjson\\mapjson.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tools\\mapjson\\mapjson.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aydan\\source\\repos\\pokemon-rom\\src\\difficulty.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\difficulty.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aydan\\source\\repos\\pokemon-rom\\src\\data.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\data.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aydan\\source\\repos\\pokemon-rom\\src\\overworld.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\overworld.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aydan\\source\\repos\\pokemon-rom\\src\\fake_rtc.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\fake_rtc.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aydan\\source\\repos\\pokemon-rom\\src\\debug.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\debug.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "how_to_frlg.md",
+              "DocumentMoniker": "C:\\Users\\aydan\\source\\repos\\pokemon-rom\\docs\\tutorials\\how_to_frlg.md",
+              "RelativeDocumentMoniker": "docs\\tutorials\\how_to_frlg.md",
+              "ToolTip": "C:\\Users\\aydan\\source\\repos\\pokemon-rom\\docs\\tutorials\\how_to_frlg.md",
+              "RelativeToolTip": "docs\\tutorials\\how_to_frlg.md",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAJkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-11-06T14:34:45.454Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "mapjson.cpp",
+              "DocumentMoniker": "C:\\Users\\aydan\\source\\repos\\pokemon-rom\\tools\\mapjson\\mapjson.cpp",
+              "RelativeDocumentMoniker": "tools\\mapjson\\mapjson.cpp",
+              "ToolTip": "C:\\Users\\aydan\\source\\repos\\pokemon-rom\\tools\\mapjson\\mapjson.cpp",
+              "RelativeToolTip": "tools\\mapjson\\mapjson.cpp",
+              "ViewState": "AgIAANsCAAAAAAAAAAAqwOsCAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-06T15:50:37.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Makefile",
+              "DocumentMoniker": "C:\\Users\\aydan\\source\\repos\\pokemon-rom\\Makefile",
+              "RelativeDocumentMoniker": "Makefile",
+              "ToolTip": "C:\\Users\\aydan\\source\\repos\\pokemon-rom\\Makefile",
+              "RelativeToolTip": "Makefile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-11-06T14:34:52.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "difficulty.c",
+              "DocumentMoniker": "C:\\Users\\aydan\\source\\repos\\pokemon-rom\\src\\difficulty.c",
+              "RelativeDocumentMoniker": "src\\difficulty.c",
+              "ToolTip": "C:\\Users\\aydan\\source\\repos\\pokemon-rom\\src\\difficulty.c",
+              "RelativeToolTip": "src\\difficulty.c",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-11-06T14:26:28.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "data.c",
+              "DocumentMoniker": "C:\\Users\\aydan\\source\\repos\\pokemon-rom\\src\\data.c",
+              "RelativeDocumentMoniker": "src\\data.c",
+              "ToolTip": "C:\\Users\\aydan\\source\\repos\\pokemon-rom\\src\\data.c",
+              "RelativeToolTip": "src\\data.c",
+              "ViewState": "AgIAAN4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-11-06T14:26:17.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "overworld.c",
+              "DocumentMoniker": "C:\\Users\\aydan\\source\\repos\\pokemon-rom\\src\\overworld.c",
+              "RelativeDocumentMoniker": "src\\overworld.c",
+              "ToolTip": "C:\\Users\\aydan\\source\\repos\\pokemon-rom\\src\\overworld.c",
+              "RelativeToolTip": "src\\overworld.c",
+              "ViewState": "AgIAAIQHAAAAAAAAAAAqwJ8HAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-11-06T14:26:11.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "fake_rtc.c",
+              "DocumentMoniker": "C:\\Users\\aydan\\source\\repos\\pokemon-rom\\src\\fake_rtc.c",
+              "RelativeDocumentMoniker": "src\\fake_rtc.c",
+              "ToolTip": "C:\\Users\\aydan\\source\\repos\\pokemon-rom\\src\\fake_rtc.c",
+              "RelativeToolTip": "src\\fake_rtc.c",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAqwHwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-11-06T14:26:06.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "debug.c",
+              "DocumentMoniker": "C:\\Users\\aydan\\source\\repos\\pokemon-rom\\src\\debug.c",
+              "RelativeDocumentMoniker": "src\\debug.c",
+              "ToolTip": "C:\\Users\\aydan\\source\\repos\\pokemon-rom\\src\\debug.c",
+              "RelativeToolTip": "src\\debug.c",
+              "ViewState": "AgIAADYSAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-11-06T14:25:20.9Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
