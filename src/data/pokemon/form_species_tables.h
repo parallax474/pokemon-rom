@@ -638,9 +638,6 @@ static const u16 sMeganiumFormSpeciesIdTable[] = {
 #if P_FAMILY_CYNDAQUIL
 static const u16 sTyphlosionFormSpeciesIdTable[] = {
     SPECIES_TYPHLOSION,
-#if P_GEN_9_MEGA_EVOLUTIONS
-	SPECIES_TYPHLOSION_MEGA,
-#endif
 #if P_HISUIAN_FORMS
     SPECIES_TYPHLOSION_HISUI,
 #endif

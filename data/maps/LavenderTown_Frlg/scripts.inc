@@ -46,18 +46,6 @@ LavenderTown_EventScript_PokemonTowerSign::
 	msgbox LavenderTown_Text_PokemonTowerSign, MSGBOX_SIGN
 	end
 
-LavenderTown_EventScript_StarterBag::
-	lock
-	faceplayer
-	fadescreen FADE_TO_BLACK
-	waitmovement 0
-	special ChooseStarter
-	waitmovement 0
-	special HealPlayerParty
-	waitstate
-	release
-	end
-
 LavenderTown_Text_DoYouBelieveInGhosts::
 	.string "Do you believe in ghosts?$"
 

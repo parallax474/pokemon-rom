@@ -1034,8 +1034,6 @@ extern const u32 gItemIcon_Tatsugirinite[];
 extern const u16 gItemIconPalette_Tatsugirinite[];
 extern const u32 gItemIcon_Glimmoranite[];
 extern const u16 gItemIconPalette_Glimmoranite[];
-extern const u32 gItemIcon_Typhlosionite[];
-extern const u16 gItemIconPalette_Typhlosionite[];
 
 // Gems
 extern const u32 gItemIcon_TypeGem[];

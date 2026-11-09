@@ -1689,8 +1689,6 @@ enum __attribute__((packed)) Species
     SPECIES_TATSUGIRI_DROOPY_MEGA = 1570,
     SPECIES_TATSUGIRI_STRETCHY_MEGA = 1571,
     SPECIES_GLIMMORA_MEGA = 1572,
-	// Custom Mega Evolutions
-	SPECIES_TYPHLOSION_MEGA = 1573,
 
     SPECIES_CUSTOM_START = SPECIES_GLIMMORA_MEGA,
     // Add any custom species between here and SPECIES_CUSTOM_END

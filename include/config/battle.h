@@ -9,15 +9,15 @@
 #define B_MULTI_HIT_CHANCE          GEN_LATEST // In Gen5+, multistrike moves have different chances for the number of times they hit. See SetRandomMultiHitCounter for values.
 #define B_WHITEOUT_MONEY            GEN_LATEST // In Gen4+, the amount of money dropped after losing a battle is determined by the number of Badges obtained. Previously, half of the player's money would be dropped. (While this change was also in FRLG, for the sake of simplicity, setting this to GEN_3 will result in RSE behavior.)
 #define B_LIGHT_BALL_ATTACK_BOOST   GEN_LATEST // In Gen4+, Light Ball doubles Attack in addition to Sp. Atk.
-#define B_PARALYSIS_CHANCE          GEN_3 // In Champions, paralysis has a 12.5% chance of not moving, instead of 25%.
+#define B_PARALYSIS_CHANCE          GEN_LATEST // In Champions, paralysis has a 12.5% chance of not moving, instead of 25%.
 
 // Experience settings
 #define B_EXP_CATCH                 GEN_LATEST // In Gen6+, the party gains experience when the player catches another Pokémon.
-#define B_TRAINER_EXP_MULTIPLIER    GEN_3 // In Gen7+, Trainer battles no longer increase total experience by 1.5x.
-#define B_SPLIT_EXP                 GEN_3 // In Gen6+, all Pokémon that participate in a battle gain full experience. In Gen5 and earlier, the total experience would be evenly split across them.
+#define B_TRAINER_EXP_MULTIPLIER    GEN_LATEST // In Gen7+, Trainer battles no longer increase total experience by 1.5x.
+#define B_SPLIT_EXP                 GEN_LATEST // In Gen6+, all Pokémon that participate in a battle gain full experience. In Gen5 and earlier, the total experience would be evenly split across them.
 #define B_SCALED_EXP                GEN_LATEST // In Gen5 and Gen7+, experience gain is weighted by the difference between the levels of the player's Pokémon and the target.
 #define B_UNEVOLVED_EXP_MULTIPLIER  GEN_LATEST // In Gen6+, if a Pokémon is at or past the level where it would be able to evolve, but it has not, it gains ~1.2x experience. This only applies to species with the EVO_LEVEL method.
-#define B_LEVEL_UP_NOTIFICATION     GEN_3 // In Gen9+, if a Pokémon gains enough experience to level up multiple times, a message is only displayed once.
+#define B_LEVEL_UP_NOTIFICATION     GEN_LATEST // In Gen9+, if a Pokémon gains enough experience to level up multiple times, a message is only displayed once.
 
 // Stat settings
 #define B_BADGE_BOOST               GEN_LATEST // In Gen4+, Gym Badges no longer boost a Pokémon's stats. (Setting this to GEN_2 does not include the additional boost to the type matching the Gym the Badge is from.)
@@ -48,7 +48,7 @@
 #define B_UPDATED_TYPE_MATCHUPS     GEN_LATEST // Changes type matchups. src/data/types_info.h for details.
 #define B_PRANKSTER_DARK_TYPES      GEN_LATEST // In Gen7+, Prankster-elevated status moves do not affect Dark-types.
 #define B_SHEER_COLD_IMMUNITY       GEN_LATEST // In Gen7+, Ice-types are immune to Sheer Cold.
-#define B_ROOST_PURE_FLYING         GEN_4 // In Gen5+, Roost turns pure Flying-types into Normal-types.
+#define B_ROOST_PURE_FLYING         GEN_LATEST // In Gen5+, Roost turns pure Flying-types into Normal-types.
 #define B_STATUS_TYPE_IMMUNITY      GEN_LATEST // In Gen1, Pokémon were immune to additional effects of attacking moves if they shared a type with the move.
 #define B_FIXED_DMG_IGNORES_TYPE    GEN_LATEST // In Gen1, fixed damage moves (Sonic Boom, Dragon Rage, Super Fang, Psywave, Seismic Toss, Night Shade, Bide, Counter) ignore type effectiveness and immunities.
 
@@ -91,7 +91,7 @@
 #define B_TOXIC_NEVER_MISS          GEN_LATEST // In Gen6+, Toxic bypasses accuracy checks when used by Poison-types.
 #define B_MINIMIZE_DMG_ACC          GEN_LATEST // In Gen6+, moves that deal double damage to minimized Pokémon will bypass accuracy checks.
 #define B_BLIZZARD_HAIL             GEN_LATEST // In Gen4+, Blizzard bypasses accuracy checks if it's hailing.
-#define B_SHEER_COLD_ACC            GEN_3 // In Gen7+, Sheer Cold's accuracy is reduced to 20% if the user isn't an Ice-type.
+#define B_SHEER_COLD_ACC            GEN_LATEST // In Gen7+, Sheer Cold's accuracy is reduced to 20% if the user isn't an Ice-type.
 
 // Move stat change settings
 #define B_FELL_STINGER_STAT_RAISE   GEN_LATEST // In Gen7+, if Fell Stinger causes the target to faint, the user's Attack raises by 3 stages instead of 2.
@@ -153,7 +153,7 @@
 #define B_FORESIGHT_FAIL                GEN_LATEST // In Gen2 and Gen5+, Foresight fails if used against a target already under its effect.
 #define B_MIRACLE_EYE_FAIL              GEN_LATEST // In Gen5+, Miracle Eye fails if used against a target already under its effect.
 #define B_PURSUIT_TARGET                GEN_LATEST // In Gen4+, Pursuit automatically targets and attacks any switching opponent. Previously, it only attacked a switching opponent if they were chose as the target.
-#define B_SKIP_RECHARGE                 GEN_1 // In Gen1 only, moves with recharge turns do not need to recharge if they knock out the target.
+#define B_SKIP_RECHARGE                 GEN_LATEST // In Gen1 only, moves with recharge turns do not need to recharge if they knock out the target.
 #define B_ENCORE_TARGET                 GEN_LATEST // In Gen5+, an encored Pokémon can select the target of its move.
 #define B_TIME_OF_DAY_HEALING_MOVES     GEN_LATEST // In Gen2 only, the amount of HP restored by Morning Sun, Synthesis, and Moonlight doubles during the morning, day, and night, respectively.
                                                    // If OW_TIMES_OF_DAY is set to GEN_3, Morning Sun is boosted during the day instead of the morning. If it is set to GEN_4 or higher, Moonlight is also boosted in the evening.
