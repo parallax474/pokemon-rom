@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\.github",
-    "\\.github\\workflows",
+    "\\data",
+    "\\data\\maps",
+    "\\data\\maps\\LavenderTown_Frlg",
+    "\\include",
+    "\\include\\config",
     "\\src",
     "\\src\\data"
   ],

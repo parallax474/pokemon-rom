@@ -3,36 +3,68 @@
   "WorkspaceRootPath": "C:\\Users\\aydan\\source\\repos\\pokemon-rom\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aydan\\source\\repos\\pokemon-rom\\data\\maps\\LavenderTown_Frlg\\scripts.inc||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:data\\maps\\LavenderTown_Frlg\\scripts.inc||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aydan\\source\\repos\\pokemon-rom\\data\\maps\\Route101\\scripts.inc||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:data\\maps\\Route101\\scripts.inc||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aydan\\source\\repos\\pokemon-rom\\src\\script_pokemon_util.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\script_pokemon_util.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aydan\\source\\repos\\pokemon-rom\\data\\maps\\PalletTown_ProfessorOaksLab_Frlg\\scripts.inc||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:data\\maps\\PalletTown_ProfessorOaksLab_Frlg\\scripts.inc||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aydan\\source\\repos\\pokemon-rom\\src\\battle_setup.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\battle_setup.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aydan\\source\\repos\\pokemon-rom\\src\\starter_choose.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\starter_choose.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aydan\\source\\repos\\pokemon-rom\\include\\script_pokemon_util.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:include\\script_pokemon_util.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aydan\\source\\repos\\pokemon-rom\\include\\starter_choose.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:include\\starter_choose.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aydan\\source\\repos\\pokemon-rom\\include\\config\\overworld.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:include\\config\\overworld.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aydan\\source\\repos\\pokemon-rom\\include\\config\\wild_encounter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:include\\config\\wild_encounter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aydan\\source\\repos\\pokemon-rom\\src\\data\\pokemon\\species_info\\gen_2_families.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\data\\pokemon\\species_info\\gen_2_families.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aydan\\source\\repos\\pokemon-rom\\src\\new_game.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\new_game.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aydan\\source\\repos\\pokemon-rom\\data\\maps\\LavenderTown_House1_Frlg\\map.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:data\\maps\\LavenderTown_House1_Frlg\\map.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aydan\\source\\repos\\pokemon-rom\\src\\data\\moves_info.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\data\\moves_info.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aydan\\source\\repos\\pokemon-rom\\src\\data\\pokemon\\level_up_learnsets\\gen_2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\data\\pokemon\\level_up_learnsets\\gen_2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aydan\\source\\repos\\pokemon-rom\\docs\\tutorials\\how_to_frlg.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\tutorials\\how_to_frlg.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aydan\\source\\repos\\pokemon-rom\\Makefile||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Makefile||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aydan\\source\\repos\\pokemon-rom\\tools\\mapjson\\mapjson.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tools\\mapjson\\mapjson.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aydan\\source\\repos\\pokemon-rom\\src\\difficulty.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\difficulty.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aydan\\source\\repos\\pokemon-rom\\src\\data.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\data.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aydan\\source\\repos\\pokemon-rom\\src\\overworld.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\overworld.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aydan\\source\\repos\\pokemon-rom\\src\\fake_rtc.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\fake_rtc.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aydan\\source\\repos\\pokemon-rom\\src\\debug.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\debug.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,11 +74,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 15,
               "Title": "how_to_frlg.md",
               "DocumentMoniker": "C:\\Users\\aydan\\source\\repos\\pokemon-rom\\docs\\tutorials\\how_to_frlg.md",
               "RelativeDocumentMoniker": "docs\\tutorials\\how_to_frlg.md",
@@ -55,92 +87,194 @@
               "ViewState": "AgIAAHUAAAAAAAAAAAAAAJkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2026-11-06T14:34:45.454Z",
-              "IsPinned": true,
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "moves_info.h",
+              "DocumentMoniker": "C:\\Users\\aydan\\source\\repos\\pokemon-rom\\src\\data\\moves_info.h",
+              "RelativeDocumentMoniker": "src\\data\\moves_info.h",
+              "ToolTip": "C:\\Users\\aydan\\source\\repos\\pokemon-rom\\src\\data\\moves_info.h",
+              "RelativeToolTip": "src\\data\\moves_info.h",
+              "ViewState": "AgIAAEkUAAAAAAAAAAAWwFEUAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-11-06T19:20:12.476Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "gen_2.h",
+              "DocumentMoniker": "C:\\Users\\aydan\\source\\repos\\pokemon-rom\\src\\data\\pokemon\\level_up_learnsets\\gen_2.h",
+              "RelativeDocumentMoniker": "src\\data\\pokemon\\level_up_learnsets\\gen_2.h",
+              "ToolTip": "C:\\Users\\aydan\\source\\repos\\pokemon-rom\\src\\data\\pokemon\\level_up_learnsets\\gen_2.h",
+              "RelativeToolTip": "src\\data\\pokemon\\level_up_learnsets\\gen_2.h",
+              "ViewState": "AgIAAMgOAAAAAAAAAAAmwMkOAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-11-06T19:18:24.953Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "scripts.inc",
+              "DocumentMoniker": "C:\\Users\\aydan\\source\\repos\\pokemon-rom\\data\\maps\\LavenderTown_Frlg\\scripts.inc",
+              "RelativeDocumentMoniker": "data\\maps\\LavenderTown_Frlg\\scripts.inc",
+              "ToolTip": "C:\\Users\\aydan\\source\\repos\\pokemon-rom\\data\\maps\\LavenderTown_Frlg\\scripts.inc",
+              "RelativeToolTip": "data\\maps\\LavenderTown_Frlg\\scripts.inc",
+              "ViewState": "AgIAACQAAAAAAAAAAAAswDYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-11-08T15:48:11.921Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "mapjson.cpp",
-              "DocumentMoniker": "C:\\Users\\aydan\\source\\repos\\pokemon-rom\\tools\\mapjson\\mapjson.cpp",
-              "RelativeDocumentMoniker": "tools\\mapjson\\mapjson.cpp",
-              "ToolTip": "C:\\Users\\aydan\\source\\repos\\pokemon-rom\\tools\\mapjson\\mapjson.cpp",
-              "RelativeToolTip": "tools\\mapjson\\mapjson.cpp",
-              "ViewState": "AgIAANsCAAAAAAAAAAAqwOsCAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-11-06T15:50:37.335Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Makefile",
-              "DocumentMoniker": "C:\\Users\\aydan\\source\\repos\\pokemon-rom\\Makefile",
-              "RelativeDocumentMoniker": "Makefile",
-              "ToolTip": "C:\\Users\\aydan\\source\\repos\\pokemon-rom\\Makefile",
-              "RelativeToolTip": "Makefile",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Title": "scripts.inc",
+              "DocumentMoniker": "C:\\Users\\aydan\\source\\repos\\pokemon-rom\\data\\maps\\Route101\\scripts.inc",
+              "RelativeDocumentMoniker": "data\\maps\\Route101\\scripts.inc",
+              "ToolTip": "C:\\Users\\aydan\\source\\repos\\pokemon-rom\\data\\maps\\Route101\\scripts.inc",
+              "RelativeToolTip": "data\\maps\\Route101\\scripts.inc",
+              "ViewState": "AgIAABkBAAAAAAAAAAAUwPQAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-11-06T14:34:52.466Z"
+              "WhenOpened": "2026-11-08T05:35:14.008Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "difficulty.c",
-              "DocumentMoniker": "C:\\Users\\aydan\\source\\repos\\pokemon-rom\\src\\difficulty.c",
-              "RelativeDocumentMoniker": "src\\difficulty.c",
-              "ToolTip": "C:\\Users\\aydan\\source\\repos\\pokemon-rom\\src\\difficulty.c",
-              "RelativeToolTip": "src\\difficulty.c",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "script_pokemon_util.c",
+              "DocumentMoniker": "C:\\Users\\aydan\\source\\repos\\pokemon-rom\\src\\script_pokemon_util.c",
+              "RelativeDocumentMoniker": "src\\script_pokemon_util.c",
+              "ToolTip": "C:\\Users\\aydan\\source\\repos\\pokemon-rom\\src\\script_pokemon_util.c",
+              "RelativeToolTip": "src\\script_pokemon_util.c",
+              "ViewState": "AgIAAK8BAAAAAAAAAAAAAB8CAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-11-06T14:26:28.621Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "data.c",
-              "DocumentMoniker": "C:\\Users\\aydan\\source\\repos\\pokemon-rom\\src\\data.c",
-              "RelativeDocumentMoniker": "src\\data.c",
-              "ToolTip": "C:\\Users\\aydan\\source\\repos\\pokemon-rom\\src\\data.c",
-              "RelativeToolTip": "src\\data.c",
-              "ViewState": "AgIAAN4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-11-06T14:26:17.813Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "overworld.c",
-              "DocumentMoniker": "C:\\Users\\aydan\\source\\repos\\pokemon-rom\\src\\overworld.c",
-              "RelativeDocumentMoniker": "src\\overworld.c",
-              "ToolTip": "C:\\Users\\aydan\\source\\repos\\pokemon-rom\\src\\overworld.c",
-              "RelativeToolTip": "src\\overworld.c",
-              "ViewState": "AgIAAIQHAAAAAAAAAAAqwJ8HAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-11-06T14:26:11.384Z"
+              "WhenOpened": "2026-11-08T05:29:59.553Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "fake_rtc.c",
-              "DocumentMoniker": "C:\\Users\\aydan\\source\\repos\\pokemon-rom\\src\\fake_rtc.c",
-              "RelativeDocumentMoniker": "src\\fake_rtc.c",
-              "ToolTip": "C:\\Users\\aydan\\source\\repos\\pokemon-rom\\src\\fake_rtc.c",
-              "RelativeToolTip": "src\\fake_rtc.c",
-              "ViewState": "AgIAAG8AAAAAAAAAAAAqwHwAAAAxAAAAAAAAAA==",
+              "Title": "script_pokemon_util.h",
+              "DocumentMoniker": "C:\\Users\\aydan\\source\\repos\\pokemon-rom\\include\\script_pokemon_util.h",
+              "RelativeDocumentMoniker": "include\\script_pokemon_util.h",
+              "ToolTip": "C:\\Users\\aydan\\source\\repos\\pokemon-rom\\include\\script_pokemon_util.h",
+              "RelativeToolTip": "include\\script_pokemon_util.h",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-11-08T05:29:59.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "starter_choose.c",
+              "DocumentMoniker": "C:\\Users\\aydan\\source\\repos\\pokemon-rom\\src\\starter_choose.c",
+              "RelativeDocumentMoniker": "src\\starter_choose.c",
+              "ToolTip": "C:\\Users\\aydan\\source\\repos\\pokemon-rom\\src\\starter_choose.c",
+              "RelativeToolTip": "src\\starter_choose.c",
+              "ViewState": "AgIAAJoCAAAAAAAAAAAAAJoCAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-11-06T14:26:06.788Z"
+              "WhenOpened": "2026-11-07T06:13:24.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "battle_setup.c",
+              "DocumentMoniker": "C:\\Users\\aydan\\source\\repos\\pokemon-rom\\src\\battle_setup.c",
+              "RelativeDocumentMoniker": "src\\battle_setup.c",
+              "ToolTip": "C:\\Users\\aydan\\source\\repos\\pokemon-rom\\src\\battle_setup.c",
+              "RelativeToolTip": "src\\battle_setup.c",
+              "ViewState": "AgIAAMQIAAAAAAAAAAAAAMQIAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-11-08T05:29:59.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "scripts.inc",
+              "DocumentMoniker": "C:\\Users\\aydan\\source\\repos\\pokemon-rom\\data\\maps\\PalletTown_ProfessorOaksLab_Frlg\\scripts.inc",
+              "RelativeDocumentMoniker": "data\\maps\\PalletTown_ProfessorOaksLab_Frlg\\scripts.inc",
+              "ToolTip": "C:\\Users\\aydan\\source\\repos\\pokemon-rom\\data\\maps\\PalletTown_ProfessorOaksLab_Frlg\\scripts.inc",
+              "RelativeToolTip": "data\\maps\\PalletTown_ProfessorOaksLab_Frlg\\scripts.inc",
+              "ViewState": "AgIAAHAGAAAAAAAAAAAAAHkGAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-11-08T05:30:00.199Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "debug.c",
-              "DocumentMoniker": "C:\\Users\\aydan\\source\\repos\\pokemon-rom\\src\\debug.c",
-              "RelativeDocumentMoniker": "src\\debug.c",
-              "ToolTip": "C:\\Users\\aydan\\source\\repos\\pokemon-rom\\src\\debug.c",
-              "RelativeToolTip": "src\\debug.c",
-              "ViewState": "AgIAADYSAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "starter_choose.h",
+              "DocumentMoniker": "C:\\Users\\aydan\\source\\repos\\pokemon-rom\\include\\starter_choose.h",
+              "RelativeDocumentMoniker": "include\\starter_choose.h",
+              "ToolTip": "C:\\Users\\aydan\\source\\repos\\pokemon-rom\\include\\starter_choose.h",
+              "RelativeToolTip": "include\\starter_choose.h",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-11-08T05:29:59.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "wild_encounter.h",
+              "DocumentMoniker": "C:\\Users\\aydan\\source\\repos\\pokemon-rom\\include\\config\\wild_encounter.h",
+              "RelativeDocumentMoniker": "include\\config\\wild_encounter.h",
+              "ToolTip": "C:\\Users\\aydan\\source\\repos\\pokemon-rom\\include\\config\\wild_encounter.h",
+              "RelativeToolTip": "include\\config\\wild_encounter.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-11-08T05:23:08.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "overworld.h",
+              "DocumentMoniker": "C:\\Users\\aydan\\source\\repos\\pokemon-rom\\include\\config\\overworld.h",
+              "RelativeDocumentMoniker": "include\\config\\overworld.h",
+              "ToolTip": "C:\\Users\\aydan\\source\\repos\\pokemon-rom\\include\\config\\overworld.h",
+              "RelativeToolTip": "include\\config\\overworld.h",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAFwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-11-08T05:17:28.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "map.json",
+              "DocumentMoniker": "C:\\Users\\aydan\\source\\repos\\pokemon-rom\\data\\maps\\LavenderTown_House1_Frlg\\map.json",
+              "RelativeDocumentMoniker": "data\\maps\\LavenderTown_House1_Frlg\\map.json",
+              "ToolTip": "C:\\Users\\aydan\\source\\repos\\pokemon-rom\\data\\maps\\LavenderTown_House1_Frlg\\map.json",
+              "RelativeToolTip": "data\\maps\\LavenderTown_House1_Frlg\\map.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-07T21:21:46.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "new_game.c",
+              "DocumentMoniker": "C:\\Users\\aydan\\source\\repos\\pokemon-rom\\src\\new_game.c",
+              "RelativeDocumentMoniker": "src\\new_game.c",
+              "ToolTip": "C:\\Users\\aydan\\source\\repos\\pokemon-rom\\src\\new_game.c",
+              "RelativeToolTip": "src\\new_game.c",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAUwIoAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-11-06T14:25:20.9Z"
+              "WhenOpened": "2026-11-07T21:15:08.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "gen_2_families.h",
+              "DocumentMoniker": "C:\\Users\\aydan\\source\\repos\\pokemon-rom\\src\\data\\pokemon\\species_info\\gen_2_families.h",
+              "RelativeDocumentMoniker": "src\\data\\pokemon\\species_info\\gen_2_families.h",
+              "ToolTip": "C:\\Users\\aydan\\source\\repos\\pokemon-rom\\src\\data\\pokemon\\species_info\\gen_2_families.h",
+              "RelativeToolTip": "src\\data\\pokemon\\species_info\\gen_2_families.h",
+              "ViewState": "AgIAAOAAAAAAAAAAAAAswOcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-11-07T05:15:54.546Z"
             }
           ]
         }

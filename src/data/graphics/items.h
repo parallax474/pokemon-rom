@@ -1011,6 +1011,8 @@ const u16 gItemIconPalette_Tatsugirinite[] = INCGFX_U16("graphics/items/icon_pal
 const u32 gItemIcon_Glimmoranite[] = INCGFX_U32("graphics/items/icons/glimmoranite.png", ".4bpp.smol");
 const u16 gItemIconPalette_Glimmoranite[] = INCGFX_U16("graphics/items/icon_palettes/glimmoranite.pal", ".gbapal");
 
+const u32 gItemIcon_Typhlosionite[] = INCGFX_U32("graphics/items/icons/meganiumite.png", ".4bpp.smol");
+const u16 gItemIconPalette_Typhlosionite[] = INCGFX_U16("graphics/items/icon_palettes/meganiumite.pal", ".gbapal");
 // Gems
 
 const u32 gItemIcon_TypeGem[] = INCGFX_U32("graphics/items/icons/type_gem.png", ".4bpp.smol");
